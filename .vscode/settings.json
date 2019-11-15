@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "list": "cpp",
+        "ostream": "cpp",
+        "vector": "cpp",
+        "__locale": "cpp",
+        "in.h": "c"
+    }
+}
