@@ -29,7 +29,7 @@
         {
             "type": "shell",
             "label": "gogo",
-            "command": "cd ${fileDirname} && ./${fileBasenameNoExtension} 27777 255",
+            "command": "cd ${fileDirname} && ./${fileBasenameNoExtension}",
             "options": {
                 "cwd": "/usr/bin"
             },
